@@ -1,34 +1,33 @@
 body{background-color: gray;
-font-size: 100%;}
+font-size: 100%;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
 main{
     width: 800px;
     height: 533px;
     margin-left: calc(50% - 400px);
     margin-top: 20px;
     display: inline-block;
-    background-color: #FFFFFF;
-    
+    background-color: #FFFFFF
 }
 div:nth-child(1){
     width: 40%;
-    margin-top: 100px;
+    margin-top: 160px;
     margin-left: 60px;
     float: left;
 }
 h1{
-    font-size: 8em;
+    font-size: 4em;
     margin: 0;
     color: #289BF0;
 }   
 h2{
-    font-size: 2.2em;
-    letter-spacing: -6px;
-    word-spacing: 8px;
+    font-size: 2em;
     margin: 0;
-    margin-bottom: 50px;
+    margin-bottom: 35px;
+    color: #5F5F5F;
 } 
 a{
-    margin-left: 40px;
+    margin-left: 15px;
     border: 2px solid;
     border-radius: 20px;
     border-color: #289BF0;
